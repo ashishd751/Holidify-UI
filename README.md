@@ -4,7 +4,7 @@ This project was made with love by [Ashish Deshpande](https://github.com/ashishd
 
 Planning a trip ? Thinking of going on a vacation ? Tired of having to go through multiple websites to plan it ?<br>
 You have come to the right place. Holidify is your trip-planner, itenerary-creator, budget-planner and a lot of other things.<br> 
-You can find the most recent version of this [here](https://github.com/ashishd751/Holidify-UI/README.md).
+You can find the most recent version of this [here](http://10.20.4.131:3000/).
 
 ## Table of Contents
 
