@@ -14,13 +14,13 @@ class Header extends Component {
 	            <span className="icon-bar"></span>
 	            <span className="icon-bar"></span>
 	          </button>
-	          <a className="navbar-brand" href="#">Holidify</a>
+	          <a className="navbar-brand prime-title" href="#">Holidify</a>
 	        </div>
 	        <div id="navbar" className="navbar-collapse collapse">
 	          <ul className="nav navbar-nav navbar-right">
-	            <li><a href="../navbar/">Default</a></li>
-	            <li><a href="../navbar-static-top/">Static top</a></li>
-	            <li className="active"><a href="./">Fixed top <span className="sr-only">(current)</span></a></li>
+	            <li className="active"><a href="./">Home <span className="sr-only">(current)</span></a></li>	          	
+	            <li><a href="../navbar/">Login</a></li>
+	            <li><a href="../navbar-static-top/">Sign Up</a></li>
 	          </ul>
 	        </div>
 	      </div>

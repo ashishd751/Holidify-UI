@@ -5,4 +5,28 @@
 
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand {
 	color: white;
+	height: 65px !important;
+    line-height: 30px;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-nav>li>a:hover {
+	color: black;
+}
+
+.prime-title {
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+nav {
+	animation: 1s ease-out 0s 1 slideInFromLeft;
 }

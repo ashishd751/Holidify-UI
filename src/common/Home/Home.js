@@ -6,11 +6,13 @@ class Home extends Component {
     return (
       <div>
         <div className="content">
-		  <div className="title">Create account</div>
-		  <input type="text" placeholder="E-mail"/>
-		  <input type="password" placeholder="Password"/>
-		  <input type="checkbox" id="rememberMe"/>
-		  <label htmlFor="rememberMe"></label><span>I have read and agree to the <a href="#">Terms of Use </a>and <a href="#">Privacy Policy</a></span>
+		  <div className="title">Holidify</div>
+		  <h3>
+		  	Trip Planner | Itnerary Creator | Budget Keeper
+		  </h3>
+		  <h4 className="description">
+		  	And a lot of other things...
+		  </h4>
 		  <button>Create Account</button>
 		  <div className="social"> <span>or sign up with social media</span></div>
 		  <div className="buttons">
